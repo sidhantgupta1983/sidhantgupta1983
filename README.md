@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sidhant Gupta (@sidhantgupta1983)
+- 👋 Hi, I’m Sidhant Gupta Kaashhyup (@sidhantgupta1983)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate with Start Ups to learn to work as an all-rounder.
